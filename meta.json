@@ -1,0 +1,24 @@
+{
+ "name": "python3-tk",
+ "version": "3.14.10",
+ "license": "PSF-2.0",
+ "homepage": "https://docs.python.org/3/library/tkinter.html",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "Python-3.14.10.tar.xz"
+ ],
+ "desc": "tkinter for Python 3.14: the Tk graphical toolkit (needs the X server of the xorg package: tos-x), with turtle",
+ "file": "python3-tk-3.14.10.tpkg",
+ "size": 223773,
+ "sha256": "00d1c5e04fb61a221769ee4438c270bfcc81fb900ef02e155329dc81ac356101",
+ "unpacked": 793918,
+ "min_build": 618,
+ "depends": [
+  "python3",
+  "tcltk"
+ ],
+ "commands": {}
+}
